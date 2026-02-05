@@ -1,5 +1,6 @@
 {
-glyphname = one.circled;
+color = 9;
+glyphname = one.ss01.circled;
 layers = (
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -10,8 +11,8 @@ ref = largeCircle;
 },
 {
 alignment = -1;
-pos = (949,0);
-ref = one;
+pos = (976,0);
+ref = one.ss01;
 }
 );
 width = 2846;
@@ -25,8 +26,8 @@ ref = largeCircle;
 },
 {
 alignment = -1;
-pos = (1021,0);
-ref = one;
+pos = (1040,0);
+ref = one.ss01;
 }
 );
 width = 2846;
@@ -40,8 +41,8 @@ ref = largeCircle;
 },
 {
 alignment = -1;
-pos = (955,0);
-ref = one;
+pos = (971,0);
+ref = one.ss01;
 }
 );
 width = 2846;
@@ -55,8 +56,8 @@ ref = largeCircle;
 },
 {
 alignment = -1;
-pos = (1003,0);
-ref = one;
+pos = (973,0);
+ref = one.ss01;
 }
 );
 width = 2846;
@@ -70,8 +71,8 @@ ref = largeCircle;
 },
 {
 alignment = -1;
-pos = (902,0);
-ref = one;
+pos = (873,0);
+ref = one.ss01;
 }
 );
 width = 2846;
@@ -85,8 +86,8 @@ ref = largeCircle;
 },
 {
 alignment = -1;
-pos = (949,0);
-ref = one;
+pos = (892,0);
+ref = one.ss01;
 }
 );
 width = 2846;
@@ -94,5 +95,5 @@ width = 2846;
 );
 metricLeft = largeCircle;
 metricRight = largeCircle;
-unicode = (9312,10112);
+unicode = 57644;
 }

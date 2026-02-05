@@ -1,15 +1,24 @@
 {
-glyphname = comma;
+color = 9;
+glyphname = comma.ss03;
 kernLeft = comma;
 kernRight = comma;
 layers = (
 {
+background = {
+shapes = (
+{
+pos = (-2,0);
+ref = period;
+}
+);
+};
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
 name = ital_gen;
 shapes = (
 {
-pos = (-244,-1282);
-ref = quoteright;
+pos = (-212,-1256);
+ref = quoteright.ss03;
 }
 );
 width = 589;
@@ -18,6 +27,7 @@ width = 589;
 background = {
 shapes = (
 {
+pos = (-3,0);
 ref = period;
 }
 );
@@ -26,8 +36,8 @@ layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
 name = ital_gen;
 shapes = (
 {
-pos = (-265,-1250);
-ref = quoteright;
+pos = (-197,-1134);
+ref = quoteright.ss03;
 }
 );
 width = 764;
@@ -44,8 +54,8 @@ layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
 name = ital_gen;
 shapes = (
 {
-pos = (-234,-1338);
-ref = quoteright;
+pos = (-256,-1406);
+ref = quoteright.ss03;
 }
 );
 width = 554;
@@ -54,7 +64,7 @@ width = 554;
 background = {
 shapes = (
 {
-pos = (1,0);
+pos = (-4,0);
 ref = period;
 }
 );
@@ -63,8 +73,8 @@ layerId = m008;
 name = ital_gen;
 shapes = (
 {
-pos = (-236,-1282);
-ref = quoteright;
+pos = (-221,-1278);
+ref = quoteright.ss03;
 }
 );
 width = 450;
@@ -82,8 +92,8 @@ layerId = m010;
 name = ital_gen;
 shapes = (
 {
-pos = (-225,-1218);
-ref = quoteright;
+pos = (-189,-1109);
+ref = quoteright.ss03;
 }
 );
 width = 544;
@@ -92,6 +102,7 @@ width = 544;
 background = {
 shapes = (
 {
+pos = (-5,0);
 ref = period;
 }
 );
@@ -100,15 +111,15 @@ layerId = m012;
 name = ital_gen;
 shapes = (
 {
-pos = (-236,-1330);
-ref = quoteright;
+pos = (-250,-1408);
+ref = quoteright.ss03;
 }
 );
 width = 400;
 }
 );
 metricWidth = period;
-unicode = 44;
+unicode = 61064;
 userData = {
 "interface.width-adjustments" = (
 -16

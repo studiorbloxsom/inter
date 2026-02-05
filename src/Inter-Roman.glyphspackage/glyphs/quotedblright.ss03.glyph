@@ -1,6 +1,5 @@
 {
-color = 9;
-glyphname = quotedblright.ss03;
+glyphname = quotedblright;
 kernLeft = quotedblright;
 kernRight = quotedblright;
 layers = (
@@ -8,88 +7,88 @@ layers = (
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
-ref = quoteright.ss03;
+ref = quoteright;
 },
 {
-pos = (435,0);
-ref = quoteright.ss03;
+pos = (368,0);
+ref = quoteright;
 }
 );
-width = 1047;
+width = 902;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
-ref = quoteright.ss03;
+ref = quoteright;
 },
 {
-pos = (593,0);
-ref = quoteright.ss03;
+pos = (526,0);
+ref = quoteright;
 }
 );
-width = 1270;
+width = 1249;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
 alignment = -1;
-ref = quoteright.ss03;
+ref = quoteright;
 },
 {
 alignment = -1;
-pos = (266,0);
-ref = quoteright.ss03;
+pos = (280,0);
+ref = quoteright;
 }
 );
-width = 834;
+width = 700;
 },
 {
 layerId = m007;
 shapes = (
 {
-ref = quoteright.ss03;
+ref = quoteright;
 },
 {
-pos = (366,0);
-ref = quoteright.ss03;
+pos = (306,0);
+ref = quoteright;
 }
 );
-width = 843;
+width = 696;
 },
 {
 layerId = m009;
 shapes = (
 {
-ref = quoteright.ss03;
+ref = quoteright;
 },
 {
-pos = (545,0);
-ref = quoteright.ss03;
+pos = (494,0);
+ref = quoteright;
 }
 );
-width = 1110;
+width = 1021;
 },
 {
 layerId = m011;
 shapes = (
 {
 alignment = -1;
-ref = quoteright.ss03;
+ref = quoteright;
 },
 {
 alignment = -1;
-pos = (224,0);
-ref = quoteright.ss03;
+pos = (176,0);
+ref = quoteright;
 }
 );
-width = 636;
+width = 462;
 }
 );
-metricLeft = quoteright.ss03;
-metricRight = quoteright.ss03;
-unicode = 61068;
+metricLeft = quoteleft;
+metricRight = quoteleft;
+unicode = (8221,750);
 userData = {
 interface.gridadjust.original = "{'width': 1041, 'leftMargin': 142, 'rightMargin': 78}";
 "interface.width-adjustments" = (

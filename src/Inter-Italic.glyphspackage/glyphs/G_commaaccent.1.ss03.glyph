@@ -1,103 +1,85 @@
 {
 color = 9;
-glyphname = Gcommaaccent.1.ss03;
+glyphname = Gcommaaccent.1;
 layers = (
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
-name = ital_gen;
 shapes = (
 {
-alignment = 1;
 ref = G.1;
 },
 {
-alignment = 1;
-pos = (485,0);
-ref = commaaccent.ss03;
+pos = (477,0);
+ref = commaaccent;
 }
 );
 width = 1512;
 },
 {
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
-name = ital_gen;
 shapes = (
 {
-alignment = 1;
 ref = G.1;
 },
 {
-alignment = 1;
-pos = (502,0);
-ref = commaaccent.ss03;
+pos = (490,0);
+ref = commaaccent;
 }
 );
-width = 1527;
+width = 1536;
 },
 {
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
-name = ital_gen;
 shapes = (
 {
-alignment = 1;
 ref = G.1;
 },
 {
-alignment = 1;
-pos = (529,0);
-ref = commaaccent.ss03;
+pos = (503,0);
+ref = commaaccent;
 }
 );
-width = 1545;
+width = 1594;
 },
 {
 layerId = m008;
-name = ital_gen;
 shapes = (
 {
-alignment = 1;
 ref = G.1;
 },
 {
-alignment = 1;
-pos = (499,0);
-ref = commaaccent.ss03;
+pos = (497,0);
+ref = commaaccent;
 }
 );
-width = 1497;
+width = 1472;
 },
 {
 layerId = m010;
-name = ital_gen;
 shapes = (
 {
-alignment = 1;
 ref = G.1;
 },
 {
-alignment = 1;
-pos = (516,6);
-ref = commaaccent.ss03;
+pos = (496,6);
+ref = commaaccent;
 }
 );
-width = 1517;
+width = 1562;
 },
 {
 layerId = m012;
-name = ital_gen;
 shapes = (
 {
-alignment = 1;
 ref = G.1;
 },
 {
-alignment = 1;
-pos = (485,0);
-ref = commaaccent.ss03;
+pos = (482,0);
+ref = commaaccent;
 }
 );
-width = 1383;
+width = 1384;
 }
 );
-unicode = 61052;
+unicode = 57352;
 }

@@ -1,24 +1,15 @@
 {
-glyphname = rightLongArrow;
-kernLeft = hyphen;
+case = minor;
+color = 4;
+glyphname = rightLongArrow.case;
 layers = (
 {
-guides = (
-{
-pos = (272,896);
-},
-{
-angle = 90;
-pos = (668,1008);
-}
-);
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
 alignment = 1;
-pos = (2746,0);
-ref = leftLongArrow;
-scale = (-1,1);
+pos = (0,93);
+ref = rightLongArrow;
 }
 );
 width = 2746;
@@ -27,16 +18,15 @@ width = 2746;
 guides = (
 {
 angle = 90;
-pos = (924,832);
+pos = (654,832);
 }
 );
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
 alignment = 1;
-pos = (2746,0);
-ref = leftLongArrow;
-scale = (-1,1);
+pos = (0,94);
+ref = rightLongArrow;
 }
 );
 width = 2746;
@@ -46,30 +36,19 @@ layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
 alignment = 1;
-pos = (2746,0);
-ref = leftLongArrow;
-scale = (-1,1);
+pos = (0,93);
+ref = rightLongArrow;
 }
 );
 width = 2746;
 },
 {
-guides = (
-{
-pos = (-20,896);
-},
-{
-angle = 90;
-pos = (376,1008);
-}
-);
 layerId = m007;
 shapes = (
 {
 alignment = 1;
-pos = (2682,0);
-ref = leftLongArrow;
-scale = (-1,1);
+pos = (0,93);
+ref = rightLongArrow;
 }
 );
 width = 2682;
@@ -78,16 +57,15 @@ width = 2682;
 guides = (
 {
 angle = 90;
-pos = (828,832);
+pos = (560,832);
 }
 );
 layerId = m009;
 shapes = (
 {
 alignment = 1;
-pos = (2714,0);
-ref = leftLongArrow;
-scale = (-1,1);
+pos = (0,94);
+ref = rightLongArrow;
 }
 );
 width = 2714;
@@ -97,19 +75,19 @@ layerId = m011;
 shapes = (
 {
 alignment = 1;
-pos = (2618,0);
-ref = leftLongArrow;
-scale = (-1,1);
+pos = (0,93);
+ref = rightLongArrow;
 }
 );
 width = 2618;
 }
 );
-metricWidth = leftLongArrow;
-unicode = 10230;
+metricLeft = rightLongArrow;
+metricWidth = rightLongArrow;
+unicode = 57816;
 userData = {
-com.typemytype.robofont.guideline.magnetic.QF0e1f3cD6 = 5;
-com.typemytype.robofont.guideline.magnetic.SyiYVwO6az = 5;
+com.typemytype.robofont.guideline.magnetic.M9uYIqojlc = 5;
+com.typemytype.robofont.guideline.magnetic.MLXbi8JRvP = 5;
 "interface.width-adjustments" = (
 -16
 );

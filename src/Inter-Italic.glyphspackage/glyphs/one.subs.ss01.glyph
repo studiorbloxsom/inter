@@ -1,7 +1,6 @@
 {
 case = minor;
-color = 9;
-glyphname = one.subs.ss01;
+glyphname = one.subs;
 kernLeft = zero.subs;
 kernRight = zero.subs;
 layers = (
@@ -11,10 +10,10 @@ name = ital_gen;
 shapes = (
 {
 pos = (-199,-1200);
-ref = one.sups.ss01;
+ref = one.sups;
 }
 );
-width = 611;
+width = 624;
 },
 {
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
@@ -22,10 +21,10 @@ name = ital_gen;
 shapes = (
 {
 pos = (-199,-1200);
-ref = one.sups.ss01;
+ref = one.sups;
 }
 );
-width = 710;
+width = 733;
 },
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
@@ -33,10 +32,10 @@ name = ital_gen;
 shapes = (
 {
 pos = (-199,-1200);
-ref = one.sups.ss01;
+ref = one.sups;
 }
 );
-width = 538;
+width = 545;
 },
 {
 layerId = m008;
@@ -44,10 +43,10 @@ name = ital_gen;
 shapes = (
 {
 pos = (-199,-1200);
-ref = one.sups.ss01;
+ref = one.sups;
 }
 );
-width = 534;
+width = 535;
 },
 {
 layerId = m010;
@@ -55,10 +54,10 @@ name = ital_gen;
 shapes = (
 {
 pos = (-199,-1200);
-ref = one.sups.ss01;
+ref = one.sups;
 }
 );
-width = 561;
+width = 563;
 },
 {
 layerId = m012;
@@ -66,12 +65,11 @@ name = ital_gen;
 shapes = (
 {
 pos = (-199,-1200);
-ref = one.sups.ss01;
+ref = one.sups;
 }
 );
-width = 469;
+width = 473;
 }
 );
-metricLeft = one.sups;
-metricRight = one.sups;
+unicode = 8321;
 }

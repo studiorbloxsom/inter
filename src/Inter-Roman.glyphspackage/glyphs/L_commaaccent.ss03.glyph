@@ -1,6 +1,5 @@
 {
-color = 9;
-glyphname = Lcommaaccent.ss03;
+glyphname = Lcommaaccent;
 kernLeft = B;
 kernRight = L;
 layers = (
@@ -11,8 +10,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (339,0);
-ref = commaaccent.ss03;
+pos = (334,0);
+ref = commaaccent;
 }
 );
 width = 1158;
@@ -25,7 +24,7 @@ ref = L;
 },
 {
 pos = (320,0);
-ref = commaaccent.ss03;
+ref = commaaccent;
 }
 );
 width = 1158;
@@ -38,7 +37,7 @@ ref = L;
 },
 {
 pos = (348,0);
-ref = commaaccent.ss03;
+ref = commaaccent;
 }
 );
 width = 1152;
@@ -51,7 +50,7 @@ ref = L;
 },
 {
 pos = (336,0);
-ref = commaaccent.ss03;
+ref = commaaccent;
 }
 );
 width = 1096;
@@ -64,7 +63,7 @@ ref = L;
 },
 {
 pos = (324,0);
-ref = commaaccent.ss03;
+ref = commaaccent;
 }
 );
 width = 1178;
@@ -77,11 +76,11 @@ ref = L;
 },
 {
 pos = (348,0);
-ref = commaaccent.ss03;
+ref = commaaccent;
 }
 );
 width = 1044;
 }
 );
-unicode = 61048;
+unicode = 315;
 }

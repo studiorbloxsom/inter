@@ -1,5 +1,5 @@
 {
-glyphname = comma.dnom;
+glyphname = comma.dnom.ss03;
 kernLeft = period.dnom;
 kernRight = period.dnom;
 layers = (
@@ -11,23 +11,23 @@ name = ital_gen;
 shapes = (
 {
 pos = (-40,0);
-ref = comma;
+ref = comma.ss03;
 }
 );
 width = 474;
 },
 {
 layerId = m012;
-metricLeft = "=-60";
+metricLeft = "=-50";
 metricRight = "=-50";
 name = ital_gen;
 shapes = (
 {
-pos = (-60,0);
-ref = comma;
+pos = (-50,0);
+ref = comma.ss03;
 }
 );
-width = 290;
+width = 300;
 },
 {
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
@@ -35,7 +35,7 @@ name = ital_gen;
 shapes = (
 {
 pos = (-19,0);
-ref = comma;
+ref = comma.ss03;
 scale = (0.8,0.8);
 }
 );
@@ -43,17 +43,17 @@ width = 471;
 },
 {
 layerId = m008;
-metricLeft = "=-30";
-metricRight = "=-30";
+metricLeft = "=-20";
+metricRight = "=-20";
 name = ital_gen;
 shapes = (
 {
-pos = (-39,0);
-ref = comma;
+pos = (-29,0);
+ref = comma.ss03;
 scale = (0.9,0.8);
 }
 );
-width = 345;
+width = 365;
 },
 {
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
@@ -61,7 +61,7 @@ name = ital_gen;
 shapes = (
 {
 pos = (-19,0);
-ref = comma;
+ref = comma.ss03;
 scale = (0.8,0.8);
 }
 );
@@ -74,7 +74,7 @@ name = ital_gen;
 shapes = (
 {
 pos = (-36,0);
-ref = comma;
+ref = comma.ss03;
 scale = (0.7,0.7);
 }
 );

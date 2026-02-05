@@ -1,6 +1,5 @@
 {
-color = 9;
-glyphname = one.ss01.squared;
+glyphname = one.squared;
 layers = (
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
@@ -11,8 +10,8 @@ ref = whiteLargeSquare;
 },
 {
 alignment = -1;
-pos = (967,0);
-ref = one.ss01;
+pos = (940,0);
+ref = one;
 }
 );
 width = 2828;
@@ -26,8 +25,8 @@ ref = whiteLargeSquare;
 },
 {
 alignment = -1;
-pos = (1031,0);
-ref = one.ss01;
+pos = (1012,0);
+ref = one;
 }
 );
 width = 2828;
@@ -41,8 +40,8 @@ ref = whiteLargeSquare;
 },
 {
 alignment = -1;
-pos = (964,0);
-ref = one.ss01;
+pos = (946,0);
+ref = one;
 }
 );
 width = 2828;
@@ -56,8 +55,8 @@ ref = whiteLargeSquare;
 },
 {
 alignment = -1;
-pos = (996,0);
-ref = one.ss01;
+pos = (994,0);
+ref = one;
 }
 );
 width = 2828;
@@ -71,8 +70,8 @@ ref = whiteLargeSquare;
 },
 {
 alignment = -1;
-pos = (866,0);
-ref = one.ss01;
+pos = (896,0);
+ref = one;
 }
 );
 width = 2828;
@@ -86,8 +85,8 @@ ref = whiteLargeSquare;
 },
 {
 alignment = -1;
-pos = (920,0);
-ref = one.ss01;
+pos = (941,0);
+ref = one;
 }
 );
 width = 2828;
@@ -95,5 +94,5 @@ width = 2828;
 );
 metricLeft = whiteLargeSquare;
 metricRight = whiteLargeSquare;
-unicode = 57673;
+unicode = 57663;
 }

@@ -1,6 +1,7 @@
 {
 case = minor;
-glyphname = quotesinglbase;
+color = 9;
+glyphname = quotesinglbase.ss03;
 kernLeft = quotedblbase;
 kernRight = quotedblbase;
 layers = (
@@ -8,8 +9,8 @@ layers = (
 background = {
 shapes = (
 {
-pos = (-81,0);
-ref = comma;
+pos = (2,0);
+ref = comma.ss03;
 }
 );
 };
@@ -18,18 +19,18 @@ name = ital_gen;
 shapes = (
 {
 alignment = 1;
-pos = (-212,-1281);
-ref = quoteright;
+pos = (-208,-1256);
+ref = quoteright.ss03;
 }
 );
-width = 615;
+width = 612;
 },
 {
 background = {
 shapes = (
 {
-pos = (-85,0);
-ref = comma;
+pos = (-136,0);
+ref = comma.ss03;
 }
 );
 };
@@ -38,18 +39,18 @@ name = ital_gen;
 shapes = (
 {
 alignment = 1;
-pos = (-207,-1250);
-ref = quoteright;
+pos = (-188,-1133);
+ref = quoteright.ss03;
 }
 );
-width = 808;
+width = 788;
 },
 {
 background = {
 shapes = (
 {
-pos = (-93,0);
-ref = comma;
+pos = (-179,0);
+ref = comma.ss03;
 }
 );
 };
@@ -58,18 +59,18 @@ name = ital_gen;
 shapes = (
 {
 alignment = 1;
-pos = (-221,-1337);
-ref = quoteright;
+pos = (-233,-1405);
+ref = quoteright.ss03;
 }
 );
-width = 510;
+width = 569;
 },
 {
 background = {
 shapes = (
 {
-pos = (-40,0);
-ref = comma;
+pos = (-80,0);
+ref = comma.ss03;
 }
 );
 };
@@ -78,18 +79,18 @@ name = ital_gen;
 shapes = (
 {
 alignment = 1;
-pos = (-212,-1282);
-ref = quoteright;
+pos = (-212,-1278);
+ref = quoteright.ss03;
 }
 );
-width = 430;
+width = 477;
 },
 {
 background = {
 shapes = (
 {
-pos = (-32,0);
-ref = comma;
+pos = (3,0);
+ref = comma.ss03;
 }
 );
 };
@@ -98,18 +99,18 @@ name = ital_gen;
 shapes = (
 {
 alignment = 1;
-pos = (-202,-1218);
-ref = quoteright;
+pos = (-184,-1109);
+ref = quoteright.ss03;
 }
 );
-width = 559;
+width = 564;
 },
 {
 background = {
 shapes = (
 {
-pos = (-106,0);
-ref = comma;
+pos = (-72,0);
+ref = comma.ss03;
 }
 );
 };
@@ -118,16 +119,15 @@ name = ital_gen;
 shapes = (
 {
 alignment = 1;
-pos = (-220,-1330);
-ref = quoteright;
+pos = (-233,-1408);
+ref = quoteright.ss03;
 }
 );
-width = 392;
+width = 412;
 }
 );
 metricLeft = quoteright;
 metricRight = quoteright;
-unicode = 8218;
 userData = {
 interface.gridadjust.original = "{'width': 578, 'leftMargin': 48, 'rightMargin': 124}";
 "interface.width-adjustments" = (

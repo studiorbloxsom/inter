@@ -1,5 +1,6 @@
 {
-glyphname = semicolon;
+color = 9;
+glyphname = semicolon.ss03;
 kernLeft = colon;
 kernRight = colon;
 layers = (
@@ -15,57 +16,37 @@ name = ital_gen;
 shapes = (
 {
 alignment = -1;
-ref = comma;
+ref = comma.ss03;
 },
 {
 pos = (161,809);
 ref = period;
 }
 );
-width = 616;
+width = 589;
 },
 {
-guides = (
-{
-angle = 80.6;
-pos = (392,1118);
-},
-{
-name = "Colon1 center";
-pos = (0,864);
-}
-);
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
 name = ital_gen;
 shapes = (
 {
 alignment = -1;
-ref = comma;
+ref = comma.ss03;
 },
 {
 pos = (123,685);
 ref = period;
 }
 );
-width = 774;
+width = 764;
 },
 {
-guides = (
-{
-name = "Colon1 center";
-pos = (0,1008);
-},
-{
-angle = 80.6;
-pos = (285,287);
-}
-);
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
 name = ital_gen;
 shapes = (
 {
 alignment = -1;
-ref = comma;
+ref = comma.ss03;
 },
 {
 alignment = -1;
@@ -73,75 +54,45 @@ pos = (167,964);
 ref = period;
 }
 );
-width = 561;
+width = 554;
 },
 {
-guides = (
-{
-name = "Colon1 center";
-pos = (0,888);
-},
-{
-angle = 80.6;
-pos = (226,287);
-}
-);
 layerId = m008;
 name = ital_gen;
 shapes = (
 {
 alignment = -1;
-ref = comma;
+ref = comma.ss03;
 },
 {
 pos = (135,784);
 ref = period;
 }
 );
-width = 456;
+width = 450;
 },
 {
-guides = (
-{
-angle = 80.6;
-pos = (275,287);
-},
-{
-name = "Colon1 center";
-pos = (0,816);
-}
-);
 layerId = m010;
 name = ital_gen;
 shapes = (
 {
 alignment = -1;
-ref = comma;
+ref = comma.ss03;
 },
 {
 pos = (106,627);
 ref = period;
 }
 );
-width = 547;
+width = 544;
 },
 {
-guides = (
-{
-name = "Colon1 center";
-pos = (0,952);
-},
-{
-angle = 80.6;
-pos = (196,287);
-}
-);
 layerId = m012;
 name = ital_gen;
 shapes = (
 {
 alignment = -1;
-ref = comma;
+ref = comma.ss03;
 },
 {
 alignment = -1;
@@ -149,12 +100,12 @@ pos = (146,912);
 ref = period;
 }
 );
-width = 395;
+width = 400;
 }
 );
-metricLeft = comma;
-metricRight = period;
-unicode = 59;
+metricLeft = comma.ss03;
+metricWidth = period;
+unicode = 61065;
 userData = {
 "interface.width-adjustments" = (
 -16

@@ -1,5 +1,6 @@
 {
-glyphname = comma;
+color = 9;
+glyphname = comma.ss03;
 kernLeft = comma;
 kernRight = comma;
 layers = (
@@ -14,8 +15,8 @@ ref = period;
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
-pos = (-12,-1338);
-ref = quoteright;
+pos = (-23,-1406);
+ref = quoteright.ss03;
 }
 );
 width = 554;
@@ -31,8 +32,8 @@ ref = period;
 layerId = m007;
 shapes = (
 {
-pos = (-24,-1282);
-ref = quoteright;
+pos = (-5,-1278);
+ref = quoteright.ss03;
 }
 );
 width = 450;
@@ -48,8 +49,8 @@ ref = period;
 layerId = m009;
 shapes = (
 {
-pos = (-24,-1218);
-ref = quoteright;
+pos = (-6,-1109);
+ref = quoteright.ss03;
 }
 );
 width = 544;
@@ -65,8 +66,8 @@ ref = period;
 layerId = m011;
 shapes = (
 {
-pos = (12,-1330);
-ref = quoteright;
+pos = (-11,-1408);
+ref = quoteright.ss03;
 }
 );
 width = 400;
@@ -95,12 +96,19 @@ nodes = (
 width = 574;
 },
 {
+background = {
+shapes = (
+{
+ref = period;
+}
+);
+};
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 name = Regular;
 shapes = (
 {
-pos = (-32,-1282);
-ref = quoteright;
+pos = (-2,-1256);
+ref = quoteright.ss03;
 }
 );
 width = 590;
@@ -171,15 +179,68 @@ layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 name = Black;
 shapes = (
 {
-pos = (-58,-1250);
-ref = quoteright;
+pos = (-6,-1134);
+ref = quoteright.ss03;
 }
 );
 width = 764;
+},
+{
+associatedMasterId = m007;
+layerId = "D38EB533-F23C-4445-A977-CDBA46E684BB";
+name = "May 26, 23, 14:21";
+shapes = (
+{
+pos = (-32,-1282);
+ref = quoteright.ss03;
+}
+);
+width = 446;
+},
+{
+associatedMasterId = m007;
+layerId = "9F94D046-76C4-4E68-A123-06B857C0B881";
+name = "May 26, 23, 14:24";
+shapes = (
+{
+closed = 1;
+nodes = (
+(284,-12,o),
+(336,40,o),
+(336,104,cs),
+(336,168,o),
+(284,220,o),
+(220,220,cs),
+(156,220,o),
+(104,168,o),
+(104,104,cs),
+(104,40,o),
+(156,-12,o),
+(220,-12,cs)
+);
+},
+{
+attr = {
+strokePos = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(75,-347,l),
+(264,-292,o),
+(351,-135,o),
+(351,26,cs),
+(351,154,o),
+(297,220,o),
+(220,220,cs)
+);
+}
+);
+width = 446;
 }
 );
 metricWidth = period;
-unicode = 44;
+unicode = 61064;
 userData = {
 "interface.width-adjustments" = (
 -16

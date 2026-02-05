@@ -1,103 +1,85 @@
 {
-glyphname = quoteleft;
+color = 9;
+glyphname = quoteleft.ss03;
 kernLeft = quotedblleft;
 kernRight = quotedblleft;
 layers = (
 {
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+name = ital_gen;
 shapes = (
 {
-closed = 1;
-nodes = (
-(427,923,l),
-(609,1490,l),
-(471,1490,l),
-(221,923,l)
-);
+angle = 180;
+pos = (838,2484);
+ref = quoteright.ss03;
 }
 );
-width = 615;
+width = 614;
 },
 {
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+name = ital_gen;
 shapes = (
 {
-closed = 1;
-nodes = (
-(594,824,l),
-(792,1490,l),
-(532,1490,l),
-(214,824,l)
-);
+angle = 180;
+pos = (983,2292);
+ref = quoteright.ss03;
 }
 );
-width = 808;
+width = 789;
 },
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+name = ital_gen;
 shapes = (
 {
-closed = 1;
-nodes = (
-(310,1040,l),
-(484,1490,l),
-(443,1490,l),
-(260,1040,l)
-);
+angle = 180;
+pos = (806,2550);
+ref = quoteright.ss03;
 }
 );
-width = 510;
+width = 568;
 },
 {
 layerId = m008;
 name = ital_gen;
 shapes = (
 {
-closed = 1;
-nodes = (
-(340.305,1001,l),
-(509.258,1490,l),
-(385.258,1490,l),
-(158.305,1001,l)
-);
+angle = 180;
+pos = (713,2484);
+ref = quoteright.ss03;
 }
 );
-width = 430;
+width = 477;
 },
 {
 layerId = m010;
 name = ital_gen;
 shapes = (
 {
-closed = 1;
-nodes = (
-(492.273,880,l),
-(654.258,1490,l),
-(379.258,1490,l),
-(122.273,880,l)
-);
+angle = 180;
+pos = (769,2292);
+ref = quoteright.ss03;
 }
 );
-width = 559;
+width = 565;
 },
 {
 layerId = m012;
 name = ital_gen;
 shapes = (
 {
-closed = 1;
-nodes = (
-(265.41,1056,l),
-(423.258,1490,l),
-(383.258,1490,l),
-(215.41,1056,l)
-);
+angle = 180;
+pos = (660,2550);
+ref = quoteright.ss03;
 }
 );
-width = 392;
+width = 412;
 }
 );
-unicode = 8216;
+metricLeft = "=|quoteright.ss03";
+metricRight = "=|quoteleft.ss03";
+unicode = 61069;
 userData = {
 "interface.width-adjustments" = (
 -16

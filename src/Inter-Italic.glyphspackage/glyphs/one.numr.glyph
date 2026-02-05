@@ -1,6 +1,7 @@
 {
 case = minor;
-glyphname = one.numr;
+color = 9;
+glyphname = one.numr.ss01;
 kernLeft = one.frac;
 kernRight = one.frac;
 layers = (
@@ -11,10 +12,10 @@ shapes = (
 {
 alignment = 1;
 pos = (112,678);
-ref = one.dnom;
+ref = one.dnom.ss01;
 }
 );
-width = 530;
+width = 514;
 },
 {
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
@@ -23,10 +24,10 @@ shapes = (
 {
 alignment = 1;
 pos = (107,648);
-ref = one.dnom;
+ref = one.dnom.ss01;
 }
 );
-width = 574;
+width = 553;
 },
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
@@ -35,10 +36,10 @@ shapes = (
 {
 alignment = 1;
 pos = (120,723);
-ref = one.dnom;
+ref = one.dnom.ss01;
 }
 );
-width = 472;
+width = 465;
 },
 {
 layerId = m008;
@@ -47,7 +48,7 @@ shapes = (
 {
 alignment = 1;
 pos = (112,678);
-ref = one.dnom;
+ref = one.dnom.ss01;
 }
 );
 width = 493;
@@ -59,7 +60,7 @@ shapes = (
 {
 alignment = 1;
 pos = (107,648);
-ref = one.dnom;
+ref = one.dnom.ss01;
 }
 );
 width = 513;
@@ -71,11 +72,10 @@ shapes = (
 {
 alignment = 1;
 pos = (120,723);
-ref = one.dnom;
+ref = one.dnom.ss01;
 }
 );
-width = 445;
+width = 442;
 }
 );
-unicode = 57565;
 }
