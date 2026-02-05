@@ -1,14 +1,14 @@
 {
-color = 9;
-glyphname = uni1FDB.1;
+glyphname = uni1FDB;
+kernRight = H;
 layers = (
 {
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
 alignment = -1;
-pos = (353,0);
-ref = I.1;
+pos = (281,0);
+ref = I;
 },
 {
 alignment = 1;
@@ -16,15 +16,15 @@ pos = (-64,-68);
 ref = tonos;
 }
 );
-width = 1256;
+width = 831;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
 alignment = -1;
-pos = (510,0);
-ref = I.1;
+pos = (472,0);
+ref = I;
 },
 {
 alignment = 1;
@@ -32,15 +32,15 @@ pos = (-200,-92);
 ref = tonos;
 }
 );
-width = 1548;
+width = 1068;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
 alignment = -1;
-pos = (207,0);
-ref = I.1;
+pos = (135,0);
+ref = I;
 },
 {
 alignment = 1;
@@ -48,15 +48,15 @@ pos = (8,-67);
 ref = tonos;
 }
 );
-width = 975;
+width = 645;
 },
 {
 layerId = m007;
 shapes = (
 {
 alignment = -1;
-pos = (270,0);
-ref = I.1;
+pos = (218,0);
+ref = I;
 },
 {
 alignment = 1;
@@ -64,15 +64,15 @@ pos = (-80,0);
 ref = tonos;
 }
 );
-width = 964;
+width = 694;
 },
 {
 layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (430,0);
-ref = I.1;
+pos = (400,0);
+ref = I;
 },
 {
 alignment = 1;
@@ -80,15 +80,15 @@ pos = (-201,-17);
 ref = tonos;
 }
 );
-width = 1324;
+width = 976;
 },
 {
 layerId = m011;
 shapes = (
 {
 alignment = -1;
-pos = (135,0);
-ref = I.1;
+pos = (85,0);
+ref = I;
 },
 {
 alignment = 1;
@@ -96,10 +96,10 @@ pos = (7,0);
 ref = tonos;
 }
 );
-width = 643;
+width = 467;
 }
 );
 metricLeft = T;
-metricRight = I.1;
-unicode = 57385;
+metricRight = I;
+unicode = 8155;
 }

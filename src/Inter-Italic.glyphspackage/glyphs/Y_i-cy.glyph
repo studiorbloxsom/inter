@@ -1,68 +1,97 @@
 {
-glyphname = "Yi-cy";
-kernLeft = Idieresis;
-kernRight = Idieresis;
+color = 9;
+glyphname = "Yi-cy.1";
 layers = (
 {
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
 name = ital_gen;
 shapes = (
 {
-ref = Idieresis;
+alignment = 1;
+ref = I.1;
+},
+{
+pos = (-92,372);
+ref = dieresiscomb;
 }
 );
-width = 550;
+width = 903;
 },
 {
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
 name = ital_gen;
 shapes = (
 {
-ref = Idieresis;
+alignment = 1;
+ref = I.1;
+},
+{
+pos = (-85,372);
+ref = dieresiscomb;
 }
 );
-width = 596;
+width = 1038;
 },
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
 name = ital_gen;
 shapes = (
 {
-ref = Idieresis;
+alignment = 1;
+ref = I.1;
+},
+{
+pos = (-152,372);
+ref = dieresiscomb;
 }
 );
-width = 510;
+width = 769;
 },
 {
 layerId = m008;
 name = ital_gen;
 shapes = (
 {
-ref = Idieresis;
+alignment = 1;
+ref = I.1;
+},
+{
+pos = (-141,434);
+ref = dieresiscomb;
 }
 );
-width = 477;
+width = 695;
 },
 {
 layerId = m010;
 name = ital_gen;
 shapes = (
 {
-ref = Idieresis;
+alignment = 1;
+ref = I.1;
+},
+{
+pos = (-113,434);
+ref = dieresiscomb;
 }
 );
-width = 577;
+width = 895;
 },
 {
 layerId = m012;
 name = ital_gen;
 shapes = (
 {
-ref = Idieresis;
+alignment = 1;
+ref = I.1;
+},
+{
+pos = (-208,434);
+ref = dieresiscomb;
 }
 );
-width = 383;
+width = 509;
 }
 );
-unicode = 1031;
+unicode = 57387;
 }

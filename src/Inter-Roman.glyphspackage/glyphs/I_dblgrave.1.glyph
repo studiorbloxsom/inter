@@ -1,91 +1,86 @@
 {
-color = 9;
-glyphname = Idblgrave.1;
+glyphname = Idblgrave;
+kernLeft = Idieresis;
+kernRight = Idieresis;
 layers = (
 {
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
-alignment = 1;
-ref = I.1;
+ref = I;
 },
 {
-pos = (-156,372);
+pos = (-333,372);
 ref = dblgravecmb;
 }
 );
-width = 903;
+width = 550;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
-alignment = 1;
-ref = I.1;
+ref = I;
 },
 {
-pos = (-227,372);
+pos = (-446,372);
 ref = dblgravecmb;
 }
 );
-width = 1038;
+width = 596;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
-alignment = 1;
-ref = I.1;
+ref = I;
 },
 {
-pos = (-135,372);
+pos = (-264,372);
 ref = dblgravecmb;
 }
 );
-width = 768;
+width = 510;
 },
 {
 layerId = m007;
 shapes = (
 {
-alignment = 1;
-ref = I.1;
+ref = I;
 },
 {
-pos = (-154,434);
+pos = (-263,434);
 ref = dblgravecmb;
 }
 );
-width = 694;
+width = 476;
 },
 {
 layerId = m009;
 shapes = (
 {
-alignment = 1;
-ref = I.1;
+ref = I;
 },
 {
-pos = (-216,434);
+pos = (-375,434);
 ref = dblgravecmb;
 }
 );
-width = 894;
+width = 576;
 },
 {
 layerId = m011;
 shapes = (
 {
-alignment = 1;
-ref = I.1;
+ref = I;
 },
 {
-pos = (-184,434);
+pos = (-247,434);
 ref = dblgravecmb;
 }
 );
-width = 508;
+width = 382;
 }
 );
-unicode = 57370;
+unicode = 520;
 }
