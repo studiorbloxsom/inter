@@ -1,5 +1,5 @@
 {
-glyphname = lcircumflexbelow;
+glyphname = lcircumflexbelow.ss02;
 kernLeft = B;
 kernRight = H;
 layers = (

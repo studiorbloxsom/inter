@@ -1,5 +1,5 @@
 {
-glyphname = comma.dnom.ss03;
+glyphname = comma.dnom;
 kernLeft = period.dnom;
 kernRight = period.dnom;
 layers = (

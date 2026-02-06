@@ -1,5 +1,5 @@
 {
-glyphname = llinebelow;
+glyphname = llinebelow.ss02;
 kernLeft = B;
 kernRight = H;
 layers = (

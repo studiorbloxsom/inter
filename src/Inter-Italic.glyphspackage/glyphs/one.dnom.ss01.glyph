@@ -1,5 +1,5 @@
 {
-glyphname = one.dnom;
+glyphname = one.dnom.ss01;
 kernLeft = one.dnom;
 kernRight = H.dnom;
 layers = (

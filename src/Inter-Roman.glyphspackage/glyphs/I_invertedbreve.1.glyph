@@ -1,5 +1,5 @@
 {
-glyphname = Iinvertedbreve;
+glyphname = Iinvertedbreve.1;
 kernLeft = Idieresis;
 kernRight = Idieresis;
 layers = (

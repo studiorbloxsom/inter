@@ -1,5 +1,5 @@
 {
-glyphname = lcaron;
+glyphname = lcaron.ss02;
 kernLeft = B;
 kernRight = H;
 layers = (

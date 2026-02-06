@@ -1,5 +1,5 @@
 {
-glyphname = figuredash;
+glyphname = figuredash.case;
 kernLeft = endash;
 kernRight = endash;
 layers = (

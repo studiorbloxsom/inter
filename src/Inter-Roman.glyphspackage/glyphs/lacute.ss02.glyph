@@ -1,5 +1,5 @@
 {
-glyphname = lacute;
+glyphname = lacute.ss02;
 kernLeft = B;
 kernRight = H;
 layers = (

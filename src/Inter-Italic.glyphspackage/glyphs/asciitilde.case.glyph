@@ -1,5 +1,5 @@
 {
-glyphname = asciitilde;
+glyphname = asciitilde.case;
 kernLeft = hyphen;
 kernRight = hyphen;
 layers = (

@@ -1,6 +1,6 @@
 {
 case = minor;
-glyphname = one.numr;
+glyphname = one.numr.ss01;
 kernLeft = one.frac;
 kernRight = one.frac;
 layers = (

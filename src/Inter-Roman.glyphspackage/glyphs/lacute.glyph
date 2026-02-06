@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = lacute.ss02;
+glyphname = lacute;
 kernLeft = B;
 kernRight = H;
 layers = (

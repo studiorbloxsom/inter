@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = semicolon.ss03;
+glyphname = semicolon;
 kernLeft = colon;
 kernRight = colon;
 layers = (

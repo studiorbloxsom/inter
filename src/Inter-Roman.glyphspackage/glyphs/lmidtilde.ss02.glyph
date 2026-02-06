@@ -1,5 +1,5 @@
 {
-glyphname = lmidtilde;
+glyphname = lmidtilde.ss02;
 kernLeft = B;
 kernRight = H;
 layers = (

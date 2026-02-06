@@ -1,5 +1,5 @@
 {
-glyphname = blackleftbullet;
+glyphname = blackleftbullet.case;
 kernLeft = bullet;
 kernRight = a;
 layers = (

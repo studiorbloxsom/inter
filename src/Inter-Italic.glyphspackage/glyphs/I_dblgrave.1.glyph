@@ -1,5 +1,5 @@
 {
-glyphname = Idblgrave;
+glyphname = Idblgrave.1;
 kernLeft = Idieresis;
 kernRight = Idieresis;
 layers = (

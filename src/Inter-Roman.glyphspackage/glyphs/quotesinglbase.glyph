@@ -1,7 +1,7 @@
 {
 case = minor;
 color = 9;
-glyphname = quotesinglbase.ss03;
+glyphname = quotesinglbase;
 kernLeft = quotedblbase;
 kernRight = quotedblbase;
 layers = (

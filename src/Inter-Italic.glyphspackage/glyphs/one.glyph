@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = one.ss01;
+glyphname = one;
 kernLeft = one;
 kernRight = one;
 layers = (

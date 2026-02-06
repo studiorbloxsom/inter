@@ -1,5 +1,5 @@
 {
-glyphname = reversedsemicolon;
+glyphname = reversedsemicolon.ss03;
 kernLeft = colon;
 kernRight = colon;
 layers = (

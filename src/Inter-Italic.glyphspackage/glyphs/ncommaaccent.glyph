@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = ncommaaccent.ss03;
+glyphname = ncommaaccent;
 kernLeft = m;
 kernRight = a;
 layers = (

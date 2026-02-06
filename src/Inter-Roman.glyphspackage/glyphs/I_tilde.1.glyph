@@ -1,5 +1,5 @@
 {
-glyphname = Itilde;
+glyphname = Itilde.1;
 kernLeft = Idieresis;
 kernRight = Idieresis;
 layers = (

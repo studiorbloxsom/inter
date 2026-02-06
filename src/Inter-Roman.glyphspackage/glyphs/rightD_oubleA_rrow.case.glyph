@@ -1,5 +1,5 @@
 {
-glyphname = rightDoubleArrow;
+glyphname = rightDoubleArrow.case;
 kernLeft = approxequal;
 layers = (
 {

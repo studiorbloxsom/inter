@@ -1,5 +1,5 @@
 {
-glyphname = colon;
+glyphname = colon.case;
 kernLeft = colon;
 kernRight = colon;
 layers = (

@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = one.dnom.ss01;
+glyphname = one.dnom;
 kernLeft = one.dnom;
 kernRight = one.dnom;
 layers = (

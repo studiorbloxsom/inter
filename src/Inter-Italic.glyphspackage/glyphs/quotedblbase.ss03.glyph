@@ -1,6 +1,6 @@
 {
 case = minor;
-glyphname = quotedblbase;
+glyphname = quotedblbase.ss03;
 kernLeft = quotedblbase;
 kernRight = quotedblbase;
 layers = (

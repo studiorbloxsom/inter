@@ -1,5 +1,5 @@
 {
-glyphname = Icircumflex;
+glyphname = Icircumflex.1;
 kernLeft = Idieresis;
 kernRight = Idieresis;
 layers = (

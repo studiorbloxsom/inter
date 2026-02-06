@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = lmidtilde.ss02;
+glyphname = lmidtilde;
 kernLeft = t;
 kernRight = t;
 layers = (

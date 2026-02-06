@@ -1,5 +1,5 @@
 {
-glyphname = multiply;
+glyphname = multiply.case;
 kernLeft = bullet;
 kernRight = bullet;
 layers = (

@@ -1,7 +1,7 @@
 {
 case = minor;
 color = 4;
-glyphname = leftLongArrow2.case;
+glyphname = leftLongArrow2;
 kernRight = hyphen;
 layers = (
 {

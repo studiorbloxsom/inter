@@ -1,5 +1,5 @@
 {
-glyphname = Ibreve;
+glyphname = Ibreve.1;
 kernLeft = Idieresis;
 kernRight = Idieresis;
 layers = (

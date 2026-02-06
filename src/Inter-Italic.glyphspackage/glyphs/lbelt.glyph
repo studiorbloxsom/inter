@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = lbelt.ss02;
+glyphname = lbelt;
 kernLeft = t;
 kernRight = t;
 layers = (

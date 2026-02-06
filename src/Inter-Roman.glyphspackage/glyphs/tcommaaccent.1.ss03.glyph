@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = tcommaaccent.1;
+glyphname = tcommaaccent.1.ss03;
 kernLeft = B;
 kernRight = t;
 layers = (

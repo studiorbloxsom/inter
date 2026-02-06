@@ -1,5 +1,5 @@
 {
-glyphname = braceleft;
+glyphname = braceleft.case;
 kernLeft = parenleft;
 kernRight = parenleft;
 layers = (

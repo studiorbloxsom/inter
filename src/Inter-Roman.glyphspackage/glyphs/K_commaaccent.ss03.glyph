@@ -1,5 +1,5 @@
 {
-glyphname = Kcommaaccent;
+glyphname = Kcommaaccent.ss03;
 kernLeft = B;
 kernRight = K;
 layers = (

@@ -1,5 +1,5 @@
 {
-glyphname = rightLongArrow;
+glyphname = rightLongArrow.case;
 kernLeft = hyphen;
 layers = (
 {

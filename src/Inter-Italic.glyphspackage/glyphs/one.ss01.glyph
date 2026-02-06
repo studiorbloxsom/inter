@@ -1,5 +1,5 @@
 {
-glyphname = one;
+glyphname = one.ss01;
 kernLeft = one;
 kernRight = H;
 layers = (

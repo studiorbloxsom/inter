@@ -1,7 +1,7 @@
 {
 case = minor;
 color = 9;
-glyphname = one.numr.ss01;
+glyphname = one.numr;
 kernLeft = one.frac;
 kernRight = one.frac;
 layers = (

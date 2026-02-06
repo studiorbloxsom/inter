@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = one.tf.ss01;
+glyphname = one.tf;
 layers = (
 {
 background = {

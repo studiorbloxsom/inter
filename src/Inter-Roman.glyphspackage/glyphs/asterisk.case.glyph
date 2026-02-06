@@ -1,5 +1,5 @@
 {
-glyphname = asterisk;
+glyphname = asterisk.case;
 kernLeft = asciicircum;
 kernRight = asciicircum;
 layers = (

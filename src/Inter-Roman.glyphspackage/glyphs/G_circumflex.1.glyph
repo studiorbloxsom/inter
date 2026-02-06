@@ -1,5 +1,5 @@
 {
-glyphname = Gcircumflex;
+glyphname = Gcircumflex.1;
 kernLeft = C;
 kernRight = G;
 layers = (

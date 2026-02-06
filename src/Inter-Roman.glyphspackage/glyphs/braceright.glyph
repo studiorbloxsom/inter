@@ -1,7 +1,7 @@
 {
 case = minor;
 color = 4;
-glyphname = braceright.case;
+glyphname = braceright;
 kernLeft = parenright.case;
 kernRight = parenright.case;
 layers = (

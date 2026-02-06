@@ -1,5 +1,5 @@
 {
-glyphname = northWestArrow;
+glyphname = northWestArrow.case;
 layers = (
 {
 guides = (

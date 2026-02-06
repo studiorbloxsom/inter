@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = reversedsemicolon.ss03;
+glyphname = reversedsemicolon;
 kernLeft = colon;
 kernRight = colon;
 layers = (

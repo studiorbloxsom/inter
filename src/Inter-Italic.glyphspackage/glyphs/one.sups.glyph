@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = one.sups.ss01;
+glyphname = one.sups;
 kernLeft = one.sups;
 kernRight = H.sups;
 layers = (

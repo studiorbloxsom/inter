@@ -1,5 +1,5 @@
 {
-glyphname = lbelt;
+glyphname = lbelt.ss02;
 kernLeft = t;
 kernRight = t;
 layers = (

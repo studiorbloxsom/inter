@@ -1,5 +1,5 @@
 {
-glyphname = tcommaaccent;
+glyphname = tcommaaccent.ss03;
 kernLeft = t;
 kernRight = t;
 layers = (

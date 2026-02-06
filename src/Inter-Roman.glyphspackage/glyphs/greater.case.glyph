@@ -1,5 +1,5 @@
 {
-glyphname = greater;
+glyphname = greater.case;
 layers = (
 {
 guides = (

@@ -1,5 +1,5 @@
 {
-glyphname = less;
+glyphname = less.case;
 layers = (
 {
 guides = (

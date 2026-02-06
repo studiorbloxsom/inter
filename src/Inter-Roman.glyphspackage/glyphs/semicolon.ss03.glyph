@@ -1,5 +1,5 @@
 {
-glyphname = semicolon;
+glyphname = semicolon.ss03;
 kernLeft = colon;
 kernRight = colon;
 layers = (

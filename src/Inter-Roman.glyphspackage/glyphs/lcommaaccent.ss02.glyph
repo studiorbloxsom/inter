@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = lcommaaccent.ss02.ss03;
+glyphname = lcommaaccent.ss02;
 kernLeft = B;
 kernRight = H;
 layers = (

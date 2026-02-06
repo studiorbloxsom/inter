@@ -1,6 +1,6 @@
 {
 color = 1;
-glyphname = Gdotaccent.ss07;
+glyphname = Gdotaccent.1.ss07;
 kernLeft = C;
 kernRight = G;
 layers = (

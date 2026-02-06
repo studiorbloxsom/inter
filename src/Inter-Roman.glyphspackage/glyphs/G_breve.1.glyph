@@ -1,5 +1,5 @@
 {
-glyphname = Gbreve;
+glyphname = Gbreve.1;
 kernLeft = C;
 kernRight = G;
 layers = (

@@ -1,7 +1,7 @@
 {
 case = minor;
 color = 4;
-glyphname = blackleftbullet.case;
+glyphname = blackleftbullet;
 layers = (
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";

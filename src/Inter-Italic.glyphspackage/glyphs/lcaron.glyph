@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = lcaron.ss02;
+glyphname = lcaron;
 kernLeft = B;
 kernRight = H;
 layers = (

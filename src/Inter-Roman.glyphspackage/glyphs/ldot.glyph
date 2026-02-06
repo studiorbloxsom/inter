@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = ldot.ss02;
+glyphname = ldot;
 kernLeft = B;
 layers = (
 {

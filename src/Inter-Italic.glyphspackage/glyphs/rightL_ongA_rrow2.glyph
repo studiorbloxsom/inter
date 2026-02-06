@@ -1,7 +1,7 @@
 {
 case = minor;
 color = 4;
-glyphname = rightLongArrow2.case;
+glyphname = rightLongArrow2;
 layers = (
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";

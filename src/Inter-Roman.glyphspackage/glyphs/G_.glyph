@@ -1,7 +1,7 @@
 {
 case = upper;
 color = 9;
-glyphname = G.1;
+glyphname = G;
 kernLeft = C;
 kernRight = R;
 layers = (

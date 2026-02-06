@@ -1,5 +1,5 @@
 {
-glyphname = minus;
+glyphname = minus.case;
 kernLeft = hyphen;
 kernRight = hyphen;
 layers = (

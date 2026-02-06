@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = quotedblleft.ss03;
+glyphname = quotedblleft;
 kernLeft = quotedblleft;
 kernRight = quotedblleft;
 layers = (

@@ -1,5 +1,5 @@
 {
-glyphname = Gcaron;
+glyphname = Gcaron.1;
 kernLeft = C;
 kernRight = G;
 layers = (

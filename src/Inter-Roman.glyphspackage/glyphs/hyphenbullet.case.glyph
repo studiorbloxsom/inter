@@ -1,5 +1,5 @@
 {
-glyphname = hyphenbullet;
+glyphname = hyphenbullet.case;
 kernLeft = bullet;
 kernRight = bullet;
 layers = (

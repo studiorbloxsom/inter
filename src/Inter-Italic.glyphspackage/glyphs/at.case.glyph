@@ -1,5 +1,5 @@
 {
-glyphname = at;
+glyphname = at.case;
 kernLeft = C;
 kernRight = D;
 layers = (

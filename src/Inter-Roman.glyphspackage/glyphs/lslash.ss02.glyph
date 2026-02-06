@@ -1,5 +1,5 @@
 {
-glyphname = lslash;
+glyphname = lslash.ss02;
 kernLeft = B;
 kernRight = H;
 layers = (

@@ -1,5 +1,5 @@
 {
-glyphname = Ncommaaccent;
+glyphname = Ncommaaccent.ss03;
 kernLeft = B;
 kernRight = H;
 layers = (

@@ -1,5 +1,5 @@
 {
-glyphname = quoteleft;
+glyphname = quoteleft.ss03;
 kernLeft = quotedblleft;
 kernRight = quotedblleft;
 layers = (

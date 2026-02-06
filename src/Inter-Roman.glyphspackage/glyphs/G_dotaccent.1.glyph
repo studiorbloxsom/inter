@@ -1,5 +1,5 @@
 {
-glyphname = Gdotaccent;
+glyphname = Gdotaccent.1;
 kernLeft = C;
 kernRight = G;
 layers = (

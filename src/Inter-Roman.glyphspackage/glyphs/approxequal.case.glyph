@@ -1,5 +1,5 @@
 {
-glyphname = approxequal;
+glyphname = approxequal.case;
 kernLeft = approxequal;
 kernRight = approxequal;
 layers = (

@@ -1,6 +1,6 @@
 {
 case = minor;
-glyphname = southEastArrow;
+glyphname = southEastArrow.case;
 layers = (
 {
 guides = (

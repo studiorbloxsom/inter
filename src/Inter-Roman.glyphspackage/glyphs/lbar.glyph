@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = lbar.ss02;
+glyphname = lbar;
 kernLeft = t;
 kernRight = t;
 layers = (

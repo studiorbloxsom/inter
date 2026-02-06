@@ -1,6 +1,6 @@
 {
 color = 9;
-glyphname = comma.ss03;
+glyphname = comma;
 kernLeft = comma;
 kernRight = comma;
 layers = (

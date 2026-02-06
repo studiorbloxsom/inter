@@ -1,7 +1,7 @@
 {
 case = minor;
 color = 4;
-glyphname = minus.case;
+glyphname = minus;
 kernLeft = hyphen;
 kernRight = hyphen;
 layers = (

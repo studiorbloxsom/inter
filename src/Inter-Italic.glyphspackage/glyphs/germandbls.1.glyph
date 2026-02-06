@@ -1,5 +1,5 @@
 {
-glyphname = germandbls;
+glyphname = germandbls.1;
 kernLeft = B;
 kernRight = B;
 layers = (

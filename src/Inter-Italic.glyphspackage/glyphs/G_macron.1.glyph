@@ -1,5 +1,5 @@
 {
-glyphname = Gmacron;
+glyphname = Gmacron.1;
 kernLeft = C;
 kernRight = G;
 layers = (

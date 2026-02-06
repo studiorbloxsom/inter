@@ -1,7 +1,7 @@
 {
 case = minor;
 color = 4;
-glyphname = approxequal.case;
+glyphname = approxequal;
 kernLeft = approxequal;
 kernRight = approxequal;
 layers = (

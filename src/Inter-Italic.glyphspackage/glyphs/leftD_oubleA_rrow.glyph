@@ -1,7 +1,7 @@
 {
 case = minor;
 color = 4;
-glyphname = leftDoubleArrow.case;
+glyphname = leftDoubleArrow;
 kernRight = approxequal;
 layers = (
 {

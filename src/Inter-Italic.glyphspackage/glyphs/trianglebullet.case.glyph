@@ -1,5 +1,5 @@
 {
-glyphname = trianglebullet;
+glyphname = trianglebullet.case;
 kernLeft = bullet;
 kernRight = bullet;
 layers = (
