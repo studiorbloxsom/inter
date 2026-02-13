@@ -86,7 +86,7 @@ width = 401;
 );
 metricLeft = colon;
 metricWidth = colon;
-unicode = 57490;
+unicode = 58;
 userData = {
 interface.gridadjust.original = "{'width': 829, 'leftMargin': 271, 'rightMargin': 222}";
 "interface.width-adjustments" = (

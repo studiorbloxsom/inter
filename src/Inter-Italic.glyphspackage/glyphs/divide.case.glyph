@@ -326,7 +326,7 @@ width = 1176;
 }
 );
 metricWidth = plus;
-unicode = 247;
+unicode = 57504;
 userData = {
 "interface.width-adjustments" = (
 -16

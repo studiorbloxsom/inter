@@ -202,7 +202,7 @@ nodes = (
 width = 1176;
 }
 );
-unicode = 43;
+unicode = 57501;
 userData = {
 com.typemytype.robofont.guideline.magnetic.vWa5hxe2x0 = 5;
 "interface.width-adjustments" = (

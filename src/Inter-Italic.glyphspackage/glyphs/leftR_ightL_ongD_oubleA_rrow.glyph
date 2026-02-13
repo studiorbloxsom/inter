@@ -72,5 +72,5 @@ width = 3456;
 );
 metricLeft = leftRightLongDoubleArrow;
 metricWidth = leftRightLongDoubleArrow;
-unicode = 57823;
+unicode = 10234;
 }

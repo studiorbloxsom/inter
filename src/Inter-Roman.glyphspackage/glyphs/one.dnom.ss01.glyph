@@ -232,7 +232,6 @@ width = 55;
 width = 445;
 }
 );
-unicode = 57525;
 userData = {
 RMXScaler = {
 source = one;

@@ -96,7 +96,7 @@ width = 408;
 }
 );
 note = "effectiv sidebearings should match LSB of /t";
-unicode = 407;
+unicode = 57359;
 userData = {
 interface.gridadjust.original = "{'width': 938, 'leftMargin': 27, 'rightMargin': 28}";
 "interface.width-adjustments" = (

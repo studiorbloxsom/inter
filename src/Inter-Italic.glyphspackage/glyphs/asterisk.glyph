@@ -519,7 +519,7 @@ Recipe:
 6. flip on vertical axis
 7. enter transform mode and center it
 ";
-unicode = 57508;
+unicode = 42;
 userData = {
 com.typemytype.robofont.guideline.magnetic.8kyvXg1lkX = 5;
 com.typemytype.robofont.guideline.magnetic.G9ZB6lXRAP = 5;

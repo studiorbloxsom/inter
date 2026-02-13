@@ -125,7 +125,7 @@ width = 896;
 }
 );
 metricWidth = bullet;
-unicode = 8259;
+unicode = 57486;
 userData = {
 interface.gridadjust.original = "{'width': 1196, 'leftMargin': 110, 'rightMargin': 110}";
 "interface.width-adjustments" = (

@@ -11,6 +11,7 @@ shapes = (
 {
 pos = (-1,0);
 ref = comma.ss03;
+unicode = 8222;
 }
 );
 };

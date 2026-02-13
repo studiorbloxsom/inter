@@ -535,7 +535,7 @@ width = 1516;
 );
 metricLeft = O;
 note = "C + hook segments";
-unicode = 71;
+unicode = 57346;
 userData = {
 com.typemytype.robofont.guideline.magnetic.DBpTQJmUAf = 5;
 com.typemytype.robofont.guideline.magnetic.Mdeh49HlEG = 5;

@@ -99,7 +99,7 @@ width = 400;
 );
 metricLeft = comma.ss03;
 metricWidth = period;
-unicode = 61065;
+unicode = 59;
 userData = {
 "interface.width-adjustments" = (
 -16

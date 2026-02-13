@@ -84,7 +84,7 @@ width = 896;
 );
 metricLeft = bullet;
 metricWidth = bullet;
-unicode = 57484;
+unicode = 8226;
 userData = {
 "interface.width-adjustments" = (
 -16

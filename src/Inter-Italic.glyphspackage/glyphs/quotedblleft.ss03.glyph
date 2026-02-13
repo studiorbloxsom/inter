@@ -88,7 +88,7 @@ width = 568;
 );
 metricLeft = quoteleft;
 metricRight = quoteleft;
-unicode = 8220;
+unicode = 61067;
 userData = {
 "interface.width-adjustments" = (
 -16

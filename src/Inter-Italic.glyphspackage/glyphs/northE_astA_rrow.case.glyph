@@ -214,5 +214,4 @@ width = 1405;
 );
 metricLeft = "=|northWestArrow";
 metricRight = "=|northWestArrow";
-unicode = 8599;
 }

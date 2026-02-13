@@ -95,7 +95,6 @@ width = 246;
 );
 metricLeft = quoteright;
 metricRight = quoteright;
-unicode = 8218;
 userData = {
 interface.gridadjust.original = "{'width': 578, 'leftMargin': 48, 'rightMargin': 124}";
 "interface.width-adjustments" = (

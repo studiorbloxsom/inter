@@ -1210,5 +1210,5 @@ width = 612;
 );
 metricLeft = period;
 metricRight = period;
-unicode = 61070;
+unicode = (8217,700);
 }

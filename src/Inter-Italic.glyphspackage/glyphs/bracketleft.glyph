@@ -74,5 +74,5 @@ width = 518;
 );
 metricLeft = bracketleft;
 metricWidth = bracketleft;
-unicode = 57475;
+unicode = 91;
 }

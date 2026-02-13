@@ -668,7 +668,7 @@ width = 1304;
 );
 metricWidth = plus;
 note = "Recipe: Make rect and rotate 63deg (regular) or 69deg (black)";
-unicode = 60;
+unicode = 57495;
 userData = {
 com.typemytype.robofont.guideline.magnetic.UCqMAsbNEX = 5;
 com.typemytype.robofont.guideline.magnetic.abdyNxiJ0X = 5;

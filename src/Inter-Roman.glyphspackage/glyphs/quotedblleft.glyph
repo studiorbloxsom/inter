@@ -125,7 +125,7 @@ width = 870;
 );
 metricLeft = "=|quoteright.ss03";
 metricRight = "=|quoteright.ss03";
-unicode = 61067;
+unicode = 8220;
 userData = {
 "interface.width-adjustments" = (
 -16

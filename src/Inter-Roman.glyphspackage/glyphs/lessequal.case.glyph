@@ -341,7 +341,7 @@ width = 1252;
 }
 );
 metricWidth = plus;
-unicode = 8804;
+unicode = 57497;
 userData = {
 com.typemytype.robofont.guideline.magnetic.IZcS8u7tGE = 5;
 interface.gridadjust.original = "{'width': 1430.0, 'leftMargin': 106, 'rightMargin': 150.0}";

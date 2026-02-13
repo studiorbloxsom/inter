@@ -178,7 +178,7 @@ nodes = (
 width = 896;
 }
 );
-unicode = 8226;
+unicode = 57484;
 userData = {
 "interface.width-adjustments" = (
 -16

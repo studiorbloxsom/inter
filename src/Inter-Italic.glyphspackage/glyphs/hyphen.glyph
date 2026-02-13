@@ -74,7 +74,7 @@ width = 771;
 );
 metricLeft = hyphen;
 metricWidth = hyphen;
-unicode = 57480;
+unicode = 45;
 userData = {
 "interface.width-adjustments" = (
 -16

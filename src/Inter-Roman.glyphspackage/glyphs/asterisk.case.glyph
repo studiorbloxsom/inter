@@ -961,7 +961,7 @@ width = 1024;
 }
 );
 note = "hexagonal angle: 30 deg";
-unicode = 42;
+unicode = 57508;
 userData = {
 com.typemytype.robofont.guideline.magnetic.x5LXEmmtln = 5;
 "interface.width-adjustments" = (

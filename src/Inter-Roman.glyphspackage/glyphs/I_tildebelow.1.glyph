@@ -82,7 +82,7 @@ ref = tildesubcomb;
 width = 382;
 }
 );
-unicode = 7724;
+unicode = 57360;
 userData = {
 interface.gridadjust.original = "{'width': 1011, 'leftMargin': -13, 'rightMargin': 40}";
 "interface.width-adjustments" = (

@@ -114,5 +114,4 @@ width = 1404;
 metricLeft = "=|northWestArrow";
 metricRight = "=|northWestArrow";
 note = "mirror of northWestArrow";
-unicode = 8600;
 }

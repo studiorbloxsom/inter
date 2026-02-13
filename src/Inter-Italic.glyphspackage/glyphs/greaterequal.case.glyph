@@ -200,7 +200,7 @@ width = 1176;
 }
 );
 metricWidth = plus;
-unicode = 8805;
+unicode = 57498;
 userData = {
 interface.gridadjust.original = "{'width': 1475, 'leftMargin': 209, 'rightMargin': 195}";
 "interface.width-adjustments" = (

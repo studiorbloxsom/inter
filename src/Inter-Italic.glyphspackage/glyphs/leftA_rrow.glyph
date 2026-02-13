@@ -73,7 +73,7 @@ width = 1827;
 );
 metricLeft = leftArrow;
 metricWidth = leftArrow;
-unicode = 57810;
+unicode = 8592;
 userData = {
 "interface.width-adjustments" = (
 -16

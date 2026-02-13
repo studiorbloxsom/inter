@@ -88,7 +88,7 @@ ref = dieresisacutecomb.uc;
 width = 383;
 }
 );
-unicode = 7726;
+unicode = 57358;
 userData = {
 interface.gridadjust.original = "{'width': 1018, 'leftMargin': 28, 'rightMargin': 28}";
 };

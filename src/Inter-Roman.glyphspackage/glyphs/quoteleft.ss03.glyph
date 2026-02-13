@@ -159,7 +159,7 @@ width = 430;
 }
 );
 metricRight = "=|quoteleft*0.5";
-unicode = 8216;
+unicode = 61069;
 userData = {
 "interface.width-adjustments" = (
 -16
