@@ -9,7 +9,6 @@ shapes = (
 {
 pos = (37,224);
 ref = southWestArrow;
-unicode = 8601;
 }
 );
 width = 1523;
@@ -70,4 +69,5 @@ ref = southWestArrow;
 width = 1450;
 }
 );
+unicode = 8601;
 }

@@ -23,7 +23,6 @@ nodes = (
 (475,0,l),
 (475,792,l)
 );
-unicode = 57525;
 }
 );
 };
@@ -300,4 +299,5 @@ interface.gridadjust.original = "{'width': 1037, 'leftMargin': 168, 'rightMargin
 -16
 );
 };
+unicode = 57525;
 }

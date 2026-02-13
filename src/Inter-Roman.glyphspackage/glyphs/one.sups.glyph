@@ -23,7 +23,6 @@ nodes = (
 (470,744,l),
 (470,1638,l)
 );
-unicode = 185;
 }
 );
 };
@@ -326,4 +325,5 @@ RMXScaler = {
 source = one.ss01;
 };
 };
+unicode = 185;
 }

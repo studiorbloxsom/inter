@@ -11,7 +11,6 @@ shapes = (
 {
 pos = (0,-1200);
 ref = one.sups.ss01;
-unicode = 8321;
 }
 );
 width = 609;
@@ -67,4 +66,5 @@ ref = one.sups.ss01;
 width = 468;
 }
 );
+unicode = 8321;
 }

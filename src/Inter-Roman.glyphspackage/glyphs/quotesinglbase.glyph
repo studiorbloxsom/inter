@@ -10,7 +10,6 @@ background = {
 shapes = (
 {
 ref = comma.ss03;
-unicode = 8218;
 }
 );
 };
@@ -116,4 +115,5 @@ interface.gridadjust.original = "{'width': 578, 'leftMargin': 48, 'rightMargin':
 -16
 );
 };
+unicode = 8218;
 }

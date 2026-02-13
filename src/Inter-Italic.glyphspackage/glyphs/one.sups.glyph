@@ -24,7 +24,6 @@ nodes = (
 (473,1533,l),
 (368,898,l)
 );
-unicode = 185;
 }
 );
 userData = {
@@ -212,4 +211,5 @@ RMXScaler = {
 source = one.ss01;
 };
 };
+unicode = 185;
 }

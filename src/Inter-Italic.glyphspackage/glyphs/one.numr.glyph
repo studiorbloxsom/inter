@@ -13,7 +13,6 @@ shapes = (
 alignment = 1;
 pos = (112,678);
 ref = one.dnom.ss01;
-unicode = 57565;
 }
 );
 width = 514;
@@ -79,4 +78,5 @@ ref = one.dnom.ss01;
 width = 442;
 }
 );
+unicode = 57565;
 }
